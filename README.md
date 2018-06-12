@@ -6,6 +6,7 @@ Chicken coop controller board (Eagle schematics) + arduino SW (for arduino and a
 * LCD with nice user friendly menu
 * External temp probe + automatic fan controller
 * Set your GPS location (via menu) and you are ready to go! (actual Sunrise and Sunset is automaticly calculated every day + you can add user delay time)
+* Build in Buzzer for Pavlov reflex (one minute before door open/close starts beeping)
 * RTC has build in automatic SW correction (cheap RTCs can be running up to 30s late every day) + automatic summer/winter time
 * External LED for door status + Data output via Serial 
 * H-bridge + motor from screwdriver for door opening (build in safety mechanism for sensor failure) Door position is controlled by Magnetic Sensor Window Alarm Switch (I have tried mechanical and also Hall-sensor switches, but this one is more realible)
